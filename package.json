@@ -1,0 +1,11 @@
+{
+    "name": "traerpokemon",
+    "version": "1.0.0",
+    "descripcion":"servidor web local",
+    "main":"app.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "autor": " ",
+    "license": "ISC"
+    }
